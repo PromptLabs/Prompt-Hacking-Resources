@@ -12,7 +12,7 @@
 - **[COURSES](https://github.com/PromptLabs/Prompt-Hacking-Resources/blob/main/COURSES.md)** - Structured learning paths covering AI Security content 
 - **[EVENTS](https://github.com/PromptLabs/Prompt-Hacking-Resources/blob/main/EVENTS.md)** - Test your skills in paid competitions
 - **[JAILBREAKS](https://github.com/PromptLabs/Prompt-Hacking-Resources/blob/main/JAILBREAKS.md)** - Look at other people's techniques for Hacking LLMs
-- **[YOUTUBE](https://github.com/PromptLabs/Prompt-Hacking-Resources/blob/main/YOUTUBE.mkd)** - Video content including tutorials, breakdowns, and real-world red teaming walkthroughs
+- **[YOUTUBE](https://github.com/PromptLabs/Prompt-Hacking-Resources/blob/main/YOUTUBE.md)** - Video content including tutorials, breakdowns, and real-world red teaming walkthroughs
 
 We hope you find this useful. Any suggestions, please let us know.
 
