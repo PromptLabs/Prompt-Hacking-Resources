@@ -19,9 +19,9 @@ We hope you find this useful. Any suggestions, please let us know.
 ---
 # BLOGS
 
-• [InjectPrompt](https://injectprompt.com) – List of novel jailbreaks, prompt injections, and system prompt leaks
-• [LearnPrompting Prompt Hacking](https://learnprompting.org/docs/prompt_hacking/introduction) – Step-by-step educational guide to prompt injection and model exploitation
-• [AIBlade](https://www.aiblade.net/) – Curated directory of AI red teaming tools and resources  
+• [InjectPrompt](https://injectprompt.com) – List of novel jailbreaks, prompt injections, and system prompt leaks  
+• [LearnPrompting Prompt Hacking](https://learnprompting.org/docs/prompt_hacking/introduction) – Step-by-step educational guide to prompt injection and model exploitation  
+• [AIBlade](https://www.aiblade.net/) – Curated directory of AI red teaming tools and resources    
 • [EmbraceTheRed](https://embracethered.com/blog/) – Practical experiments and insights from active AI red teamers  
 • [Joseph Thacker](https://josephthacker.com/) – First-person red teaming explorations and LLM vulnerability research  
 • [Protect AI Blog](https://protectai.com/blog) – Enterprise-grade AI security insights and open-source tooling announcements  
@@ -64,8 +64,8 @@ We hope you find this useful. Any suggestions, please let us know.
 • [Introduction to Prompt Hacking](https://learnprompting.org/courses/intro-to-prompt-hacking) – Beginner-friendly course covering the fundamentals of prompt injection and AI red teaming  
 • [Advanced Prompt Hacking](https://learnprompting.org/courses/advanced-prompt-hacking) – Deeper dive into adversarial prompting, attack types, and defense strategies  
 • [Prompt Engineering for Beginners (DeepLearning.AI)](https://www.deeplearning.ai/short-courses/prompt-engineering-for-developers/) – Short course on crafting effective prompts using OpenAI models  
-• [Prompt Engineering Crash Course (DataCamp)](https://www.datacamp.com/courses/prompt-engineering-for-chatgpt) – Hands-on training on prompt engineering with ChatGPT 
-• [Introduction to Prompt Engineering](https://learnprompting.org/courses/introduction_to_prompt_engineering) – Write better prompts and learn how LLMs interpret inputs
+• [Prompt Engineering Crash Course (DataCamp)](https://www.datacamp.com/courses/prompt-engineering-for-chatgpt) – Hands-on training on prompt engineering with ChatGPT   
+• [Introduction to Prompt Engineering](https://learnprompting.org/courses/introduction_to_prompt_engineering) – Write better prompts and learn how LLMs interpret inputs  
 • [Intro to LLMs and Prompting (Google Cloud)](https://www.cloudskillsboost.google/paths/118) – Google’s path on LLM basics and prompting within their cloud platform  
 • [Prompt Engineering on LearnAI](https://learnprompting.org/) – Community-driven learning resources for prompt engineering and red teaming  
 • [Generative AI Prompting Basics (Google)](https://cloud.google.com/training/courses/generative-ai-prompting) – Foundational course for understanding GenAI prompting with Google tools  
@@ -122,10 +122,7 @@ We hope you find this useful. Any suggestions, please let us know.
 - [How AI Jailbreaks Work and What Stops Them?](https://www.youtube.com/watch?v=6Mmevs1877A) – How jailbreaks are done and defended  
 - [AI Jailbreaking Demo](https://www.youtube.com/watch?v=F_KychntktU) – How prompt engineering bypasses LLM filters  
 - [How Jailbreakers Try to “Free” AI](https://www.youtube.com/watch?v=CIQe2jdYAJ0) – The mindset behind jailbreakers  
-- [Defending Against AI Jailbreaks](https://www.youtube.com/watch?v=BaNXYqcfDyo) – Protection strategies
-
-
-**Prompt Injection** 
+- [Defending Against AI Jailbreaks](https://www.youtube.com/watch?v=BaNXYqcfDyo) – Protection strategies  
 - [AI Jailbroken in 30 Seconds?!](https://www.youtube.com/watch?v=YatNUON2yOQ) – How fast prompt injection can occur  
 - [Anthropic's Stunning New Jailbreak](https://www.youtube.com/watch?v=LGHaMcP_flA) – Includes prompt injection method  
 - [New AI Jailbreak Method Shatters Models](https://www.youtube.com/watch?v=5cEvNO9rZgI) – Attack working on GPT-4 and others  
