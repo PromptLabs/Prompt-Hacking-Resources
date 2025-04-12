@@ -19,10 +19,11 @@ We hope you find this useful. Any suggestions, please let us know.
 ---
 # BLOGS
 
+• [InjectPrompt](https://injectprompt.com) – List of novel jailbreaks, prompt injections, and system prompt leaks
+• [LearnPrompting Prompt Hacking](https://learnprompting.org/docs/prompt_hacking/introduction) – Step-by-step educational guide to prompt injection and model exploitation
 • [AIBlade](https://www.aiblade.net/) – Curated directory of AI red teaming tools and resources  
 • [EmbraceTheRed](https://embracethered.com/blog/) – Practical experiments and insights from active AI red teamers  
 • [Joseph Thacker](https://josephthacker.com/) – First-person red teaming explorations and LLM vulnerability research  
-• [LearnPrompting Prompt Hacking](https://learnprompting.org/docs/prompt_hacking/introduction) – Step-by-step educational guide to prompt injection and model exploitation  
 • [Protect AI Blog](https://protectai.com/blog) – Enterprise-grade AI security insights and open-source tooling announcements  
 • [AWS Generative AI Security](https://aws.amazon.com/blogs/security/category/artificial-intelligence/generative-ai/) – Secure architecture and compliance guidance for GenAI workloads  
 • [Lakera AI Blog](https://www.lakera.ai/blog) – Interactive red teaming campaigns and accessible safety content (e.g., Gandalf)  
@@ -63,7 +64,8 @@ We hope you find this useful. Any suggestions, please let us know.
 • [Introduction to Prompt Hacking](https://learnprompting.org/courses/intro-to-prompt-hacking) – Beginner-friendly course covering the fundamentals of prompt injection and AI red teaming  
 • [Advanced Prompt Hacking](https://learnprompting.org/courses/advanced-prompt-hacking) – Deeper dive into adversarial prompting, attack types, and defense strategies  
 • [Prompt Engineering for Beginners (DeepLearning.AI)](https://www.deeplearning.ai/short-courses/prompt-engineering-for-developers/) – Short course on crafting effective prompts using OpenAI models  
-• [Prompt Engineering Crash Course (DataCamp)](https://www.datacamp.com/courses/prompt-engineering-for-chatgpt) – Hands-on training on prompt engineering with ChatGPT  
+• [Prompt Engineering Crash Course (DataCamp)](https://www.datacamp.com/courses/prompt-engineering-for-chatgpt) – Hands-on training on prompt engineering with ChatGPT 
+• [Introduction to Prompt Engineering](https://learnprompting.org/courses/introduction_to_prompt_engineering) – Write better prompts and learn how LLMs interpret inputs
 • [Intro to LLMs and Prompting (Google Cloud)](https://www.cloudskillsboost.google/paths/118) – Google’s path on LLM basics and prompting within their cloud platform  
 • [Prompt Engineering on LearnAI](https://learnprompting.org/) – Community-driven learning resources for prompt engineering and red teaming  
 • [Generative AI Prompting Basics (Google)](https://cloud.google.com/training/courses/generative-ai-prompting) – Foundational course for understanding GenAI prompting with Google tools  
