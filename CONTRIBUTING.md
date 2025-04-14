@@ -35,7 +35,3 @@ To keep things consistent across the project, here are a few style points:
 - **Neutral & clear:** Use plain language that's easy to understand. Avoid hype or overly technical jargon.
 - **Keep it simple:** Follow basic Markdown formatting for headers, lists, and links.
 - **Be Detailed Where Needed:** Don't hesitate to add context so readers of all levels can understand your changes.
-
-## Licensing and Attribution
-
-By contributing, you agree that your work will be released under the [MIT License](LICENSE).
