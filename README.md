@@ -1,7 +1,12 @@
       
 <h1 align="center">
-    <strong>Awesome prompt hacking – an awesome list of curated resources for people interested in AI Red Teaming, Jailbreaking, and Prompt Injection.</strong>
+    <strong>Awesome prompt hacking – an awesome list of curated resources on prompt hacking and AI safety.</strong>
 </h1>
+
+<p align="center">
+Topics include AI red teaming, jailbreaking, prompt injection, prompt hacking, AI/ML safety and security.
+</p>
+
 <p align="center">
       
   [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Made With Love](https://img.shields.io/badge/Made%20With-Love-orange.svg)](https://github.com/chetanraj/awesome-github-badges) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Awesome%20Prompting%20Resources%20-%20a%20collection%20of%20awesome%20lists%20related%20to%20prompt%20engineering%20by%20@learnprompting&url=https://github.com/kavaivaleri/prompting-resources)
@@ -37,8 +42,6 @@
 Prompt Hacking is an emerging field that covers the intersection between AI and Cybersecurity. It involves exploring the outer edges of LLM behavior through adversarial prompts and prompt injection techniques.
 
 Due to its novelty, online resources are few and far between.
-
-This repo aims to provide a good overview of resources people can use to upskill themselves at Prompt Hacking.
 
 This repository aims to provide a good overview of materials and tutorials that help expose vulnerabilities, document offensive research, and promote a better understanding of model limitations.
 
@@ -162,7 +165,7 @@ If you have suggestions, improvements, or additional resources to include, pleas
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute the repository with proper attribution.
+This project is licensed under the [MIT License](LICENSE). You can use, modify, and distribute the repository with proper attribution.
 
 ---
 
