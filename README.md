@@ -34,7 +34,6 @@ Topics include AI red teaming, jailbreaking, prompt injection, prompt hacking, A
   - [Jailbreaks](#jailbreaks)
   - [YouTube](#youtube)
 - [Contributing](#contributing)
-- [License](#license)
 
 ---
 
@@ -156,6 +155,7 @@ A collection of repositories, tools, and research papers that document methods o
 - **[New AI Jailbreak Method Shatters Models](https://www.youtube.com/watch?v=5cEvNO9rZgI)** – Exploration of experimental bypass strategies.
 - **[Jailbreaking AI - Deepseek & Prompt Tricks](https://www.youtube.com/watch?v=9TVG9Oxda0M)** – Advanced prompt engineering in real-world scenarios.
 - **[First to Jailbreak Claude Wins $20,000](https://www.youtube.com/watch?v=m5uWKRJhcao)** – Competitive challenge highlighting effective prompt injection.
+
 ---
 ## Contributing
 
@@ -163,10 +163,4 @@ If you have suggestions, improvements, or additional resources to include, pleas
 
 ---
 
-## License
-
-This project is licensed under the [MIT License](LICENSE). You can use, modify, and distribute the repository with proper attribution.
-
----
-
-*Maintained by a community of experts in AI red teaming and cybersecurity, this repository aims to deliver critical, reliable resources for advancing prompt hacking research. We encourage rigorous testing, honest discussions, and the sharing of proven methodologies to foster safe and responsible exploration in this field.*
+This repository aims to deliver critical, reliable resources for advancing prompt hacking research. We encourage rigorous testing, honest discussions, and the sharing of proven methodologies to foster safe and responsible exploration in this field.
