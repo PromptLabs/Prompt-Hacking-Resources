@@ -1,7 +1,6 @@
-<img src="astronaut-learn-prompting.png" alt="astronaut-learn-prompting">
       
 <h1 align="center">
-    <strong>Awesome prompt hacking — an awesome list of curated resources for people interested in AI Red Teaming, Jailbreaking, and Prompt Injection.</strong>
+    <strong>Awesome prompt hacking – an awesome list of curated resources for people interested in AI Red Teaming, Jailbreaking, and Prompt Injection.</strong>
 </h1>
 <p align="center">
 
@@ -13,6 +12,8 @@ This repo aims to provide a good overview of resources people can use to upskill
 </p>
 
 > This resource is provided by [Learn Prompting](https://github.com/trigaten/Learn_Prompting), your go-to resource for mastering Generative AI.
+
+<img src="astronaut-learn-prompting.png" alt="astronaut-learn-prompting">
 
 <p align="center">
 <a href="https://discord.com/invite/learn-prompting-1046228027434086460">Discord</a> • <a href="https://x.com/learnprompting">Twitter (X)</a> • <a href="https://www.linkedin.com/company/learn-prompting/">LinkedIn</a> • <a href="https://learnprompting.beehiiv.com/subscribe">Newsletter</a> • <a href="https://learnprompting.org/courses/chatgpt-for-everyone">Free ChatGPT Course</a> • <a href="https://learnprompting.org/docs/introduction">Free Prompt Engineering Guide</a>
