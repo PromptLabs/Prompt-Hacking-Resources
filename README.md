@@ -1,4 +1,4 @@
-<img src="astronaut_welcome.webp" alt="astronaut-learn-prompting">
+<img src="astronaut_welcome.png" alt="astronaut-learn-prompting">
 
 <h1 align="center">
     <strong>Awesome prompt hacking — an awesome list of curated resources for people interested in AI Red Teaming, Jailbreaking, and Prompt Injection.</strong>
