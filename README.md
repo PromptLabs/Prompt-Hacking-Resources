@@ -1,9 +1,13 @@
-<img src="astronaut_welcome.png" alt="astronaut-learn-prompting">
-
+<img src="astronaut-learn-prompting.png" alt="astronaut-learn-prompting">
+      
 <h1 align="center">
     <strong>Awesome prompt hacking — an awesome list of curated resources for people interested in AI Red Teaming, Jailbreaking, and Prompt Injection.</strong>
 </h1>
 <p align="center">
+
+Prompt Hacking is an emerging field that covers the intersection between AI and Cybersecurity. Due to its novelty, online resources are few and far between.
+
+This repo aims to provide a good overview of resources people can use to upskill themselves at Prompt Hacking.
 
   [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Made With Love](https://img.shields.io/badge/Made%20With-Love-orange.svg)](https://github.com/chetanraj/awesome-github-badges) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Awesome%20Prompting%20Resources%20-%20a%20collection%20of%20awesome%20lists%20related%20to%20prompt%20engineering%20by%20@learnprompting&url=https://github.com/kavaivaleri/prompting-resources)
 </p>
@@ -14,10 +18,6 @@
 <a href="https://discord.com/invite/learn-prompting-1046228027434086460">Discord</a> • <a href="https://x.com/learnprompting">Twitter (X)</a> • <a href="https://www.linkedin.com/company/learn-prompting/">LinkedIn</a> • <a href="https://learnprompting.beehiiv.com/subscribe">Newsletter</a> • <a href="https://learnprompting.org/courses/chatgpt-for-everyone">Free ChatGPT Course</a> • <a href="https://learnprompting.org/docs/introduction">Free Prompt Engineering Guide</a>
 
 </p>
-
-Prompt Hacking is an emerging field that covers the intersection between AI and Cybersecurity. Due to its novelty, online resources are few and far between.
-
-This repo aims to provide a good overview of resources people can use to upskill themselves at Prompt Hacking.
 
 ## 🗂️ Resource Categories
 
