@@ -12,6 +12,7 @@
 • [Prompt Engineering on Fast.ai](https://course.fast.ai/) – Included in Fast.ai’s broader course, focusing on real-world prompting and LLM use cases  
 • [Prompt Engineering Guide (GitHub)](https://github.com/dair-ai/Prompt-Engineering-Guide) – Open-source, curated guide for learning prompt design and applications  
 • [Intro to AI Safety and Prompt Testing](https://www.eleuther.ai/) – Educational resources and reading materials from EleutherAI’s safety efforts
+- [Spikee Tutorial Series](https://www.youtube.com/playlist?list=PLNg09XqZv0dEeneAyDR4nxPda8WJBOKAe) – Series of tutorials on how to use spikee, an open-source tool, to test LLMs and LLM application resiliance to different jailbreaking and prompt injection attacks 
 
 ---
 

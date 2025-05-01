@@ -8,6 +8,8 @@
 - [Red Teaming AI: What You Need To Know](https://www.youtube.com/watch?v=2WvxYDpXw5s) – Comprehensive overview of red teaming essentials  
 - [Building Trust in AI: Introduction to Red-Teaming](https://www.youtube.com/watch?v=Zw_ulylWrhs) – Fundamentals of red-teaming for AI  
 - [What's Next for AI Red-Teaming?](https://www.youtube.com/watch?v=gDnNuxpvPis) – Future challenges and developments in the field  
+- [LLM Security Chronicles](https://www.youtube.com/playlist?list=PLNg09XqZv0dHVDw7OiiRQJ315HnGHbDb) – YouTube playlist on practical LLM application security and red teaming  
+
 ---
 **Jailbreaking**
 ---
