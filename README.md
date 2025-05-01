@@ -65,6 +65,8 @@ Stay informed with expert analyses, tutorials, and research articles on AI secur
 - **[Cisco AI Safety](https://blogs.cisco.com/news/you-cant-sacrifice-ai-safety-for-ai-speed)** – Strategic perspectives on embedding safety in AI innovation.
 - **[Microsoft Security: AI & ML](https://www.microsoft.com/en-us/security/blog/topic/ai-and-machine-learning/)** – Deep dives into threat modeling and responsible AI practices.
 - **[Vectra AI Cybersecurity Blog](https://www.vectra.ai/blog)** – How AI can be used to defend against emerging AI-driven threats.
+- **[Reversec AI Security Articles](https://labs.reversec.com/categories/ai-security)** – Reversec research articles on LLM application security and prompt injection  
+
 
 ## Communities
 
@@ -101,6 +103,7 @@ Stay informed with expert analyses, tutorials, and research articles on AI secur
 - **[Prompt Engineering on Fast.ai](https://course.fast.ai/)** – Integrated with broader practical machine learning applications.
 - **[Prompt Engineering Guide (GitHub)](https://github.com/dair-ai/Prompt-Engineering-Guide)** – An open-source resource for advanced prompt design.
 - **[Intro to AI Safety and Prompt Testing](https://www.eleuther.ai/)** – Materials focused on the safety aspects of prompt exploitation.
+- **[Spikee Tutorial Series](https://www.youtube.com/playlist?list=PLNg09XqZv0dEeneAyDR4nxPda8WJBOKAe)** – Series of tutorials on how to use spikee, an open-source tool, to test LLMs and LLM application resiliance to different jailbreaking and prompt injection attacks 
 
 ### Paid Courses
 - **[AI Red-Teaming and Security Masterclass](https://learnprompting.org/courses/ai-security-masterclass)** – Comprehensive training on threat assessment, red teaming methodologies, and effective countermeasures.
@@ -144,6 +147,7 @@ A collection of repositories, tools, and research papers that document methods o
 - **[Red Teaming AI: What You Need To Know](https://www.youtube.com/watch?v=2WvxYDpXw5s)** – Essential introduction to red teaming practices.
 - **[Building Trust in AI: Introduction to Red-Teaming](https://www.youtube.com/watch?v=Zw_ulylWrhs)** – Fundamentals of effective AI red teaming.
 - **[What's Next for AI Red-Teaming?](https://www.youtube.com/watch?v=gDnNuxpvPis)** – Future directions and challenges.
+- **[LLM Security Chronicles](https://www.youtube.com/playlist?list=PLNg09XqZv0dHVDw7OiiRQJ315HnGHbDbG)** – YouTube playlist on practical LLM application security and red teaming  
 
 ### Jailbreaking
 - **[How AI Jailbreaks Work and What Stops Them?](https://www.youtube.com/watch?v=6Mmevs1877A)** – An overview of the methods behind AI jailbreaks.
