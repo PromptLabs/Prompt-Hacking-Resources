@@ -147,7 +147,7 @@ A collection of repositories, tools, and research papers that document methods o
 - **[Red Teaming AI: What You Need To Know](https://www.youtube.com/watch?v=2WvxYDpXw5s)** – Essential introduction to red teaming practices.
 - **[Building Trust in AI: Introduction to Red-Teaming](https://www.youtube.com/watch?v=Zw_ulylWrhs)** – Fundamentals of effective AI red teaming.
 - **[What's Next for AI Red-Teaming?](https://www.youtube.com/watch?v=gDnNuxpvPis)** – Future directions and challenges.
-- **[LLM Security Chronicles](https://www.youtube.com/playlist?list=PLNg09XqZv0dHVDw7OiiRQJ315HnGHbDb)** – YouTube playlist on practical LLM application security and red teaming  
+- **[LLM Security Chronicles](https://www.youtube.com/playlist?list=PLNg09XqZv0dHVDw7OiiRQJ315HnGHbDbG)** – YouTube playlist on practical LLM application security and red teaming  
 
 ### Jailbreaking
 - **[How AI Jailbreaks Work and What Stops Them?](https://www.youtube.com/watch?v=6Mmevs1877A)** – An overview of the methods behind AI jailbreaks.
