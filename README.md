@@ -65,7 +65,8 @@ Stay informed with expert analyses, tutorials, and research articles on AI secur
 - **[Cisco AI Safety](https://blogs.cisco.com/news/you-cant-sacrifice-ai-safety-for-ai-speed)** – Strategic perspectives on embedding safety in AI innovation.
 - **[Microsoft Security: AI & ML](https://www.microsoft.com/en-us/security/blog/topic/ai-and-machine-learning/)** – Deep dives into threat modeling and responsible AI practices.
 - **[Vectra AI Cybersecurity Blog](https://www.vectra.ai/blog)** – How AI can be used to defend against emerging AI-driven threats.
-- **[Reversec AI Security Articles](https://labs.reversec.com/categories/ai-security)** – Reversec research articles on LLM application security and prompt injection  
+- **[Reversec AI Security Articles](https://labs.reversec.com/categories/ai-security)** – Reversec research articles on LLM application security and prompt injection
+- **[NeuralTrust AI Security Blog](https://neuraltrust.ai/blog)** – GenAI Application security. Focus on attacks and defenses for agents and LLMs
 
 
 ## Communities
