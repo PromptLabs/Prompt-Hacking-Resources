@@ -1,8 +1,7 @@
 # BLOGS
 ---
-• [InjectPrompt](https://injectprompt.com) – List of novel jailbreaks, prompt injections, and system prompt leaks  
 • [LearnPrompting Prompt Hacking](https://learnprompting.org/docs/prompt_hacking/introduction) – Step-by-step educational guide to prompt injection and model exploitation  
-• [AIBlade](https://www.aiblade.net/) – Curated directory of AI red teaming tools and resources    
+• [What is AI Red Teaming? (Learn Prompting)](https://learnprompting.org/blog/what-is-ai-red-teaming) – A primer on what AI red teaming is, why it matters, and how practitioners do it  
 • [EmbraceTheRed](https://embracethered.com/blog/) – Practical experiments and insights from active AI red teamers  
 • [Joseph Thacker](https://josephthacker.com/) – First-person red teaming explorations and LLM vulnerability research  
 • [Protect AI Blog](https://protectai.com/blog) – Enterprise-grade AI security insights and open-source tooling announcements  

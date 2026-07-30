@@ -3,6 +3,7 @@
 ---
 **AI Red Teaming**
 ---
+- [Why Securing AI Is Harder Than Anyone Expected | HackAPrompt CEO](https://www.youtube.com/watch?v=J9982NLmTXg) – Sander Schulhoff (Learn Prompting / HackAPrompt) on why AI guardrails keep failing  
 - [How Microsoft Approaches AI Red Teaming](https://www.youtube.com/watch?v=zFRn_RMSPI4) – Insights into Microsoft's AI red teaming strategies  
 - [AI Red Teaming in 2024 and Beyond](https://www.youtube.com/watch?v=nzfPUeB6UjM) – Exploration of red teaming trends and tools  
 - [Red Teaming AI: What You Need To Know](https://www.youtube.com/watch?v=2WvxYDpXw5s) – Comprehensive overview of red teaming essentials  
