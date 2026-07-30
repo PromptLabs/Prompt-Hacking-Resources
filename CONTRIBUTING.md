@@ -35,3 +35,13 @@ To keep things consistent across the project, here are a few style points:
 - **Neutral & clear:** Use plain language that's easy to understand. Avoid hype or overly technical jargon.
 - **Keep it simple:** Follow basic Markdown formatting for headers, lists, and links.
 - **Be Detailed Where Needed:** Don't hesitate to add context so readers of all levels can understand your changes.
+
+## Curation Criteria
+
+This is a curated list maintained by [Learn Prompting](https://learnprompting.org), not an exhaustive directory. Before submitting a resource, check that it:
+
+- **Is actively maintained.** Dead links, abandoned projects, and pages that no longer resolve are removed on sight.
+- **Adds something new.** A resource should cover ground the existing entries don't already cover.
+- **Is primarily educational.** Blogs, research, tools, events, and communities are welcome. Entries that mainly promote a paid product or service may be declined or removed at the maintainers' discretion.
+
+Self-nominations are welcome when they clearly meet the bar above; please disclose your affiliation in the PR description.

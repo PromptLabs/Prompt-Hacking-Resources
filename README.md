@@ -9,7 +9,7 @@ Topics include AI red teaming, jailbreaking, prompt injection, prompt hacking, A
 
 <p align="center">
       
-  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Made With Love](https://img.shields.io/badge/Made%20With-Love-orange.svg)](https://github.com/chetanraj/awesome-github-badges) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Awesome%20Prompting%20Resources%20-%20a%20collection%20of%20awesome%20lists%20related%20to%20prompt%20engineering%20by%20@learnprompting&url=https://github.com/kavaivaleri/prompting-resources)
+  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Made With Love](https://img.shields.io/badge/Made%20With-Love-orange.svg)](https://github.com/chetanraj/awesome-github-badges) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Awesome%20Prompting%20Resources%20-%20a%20collection%20of%20awesome%20lists%20related%20to%20prompt%20engineering%20by%20@learnprompting&url=https://github.com/PromptLabs/Prompt-Hacking-Resources)
 </p>
 
 > This resource is provided by [Learn Prompting](https://github.com/trigaten/Learn_Prompting), your go-to resource for mastering Generative AI.
@@ -111,11 +111,12 @@ Stay informed with expert analyses, tutorials, and research articles on AI secur
 
 Keep updated with competitions, workshops, and summits that drive practical learning and networking:
 - **[HackAPrompt](https://www.hackaprompt.com/)** – Online competitions aimed at discovering innovative ways to jailbreak AI systems.
+- **[AI Village (DEF CON)](https://aivillage.org/)** – DEF CON's home for hands-on AI red teaming, CTFs, and security research community.
 - **[AI Security Summit 2024](https://www.scale.com/summit/access)** – Executive-level summit addressing current AI security challenges.
 - **[AI Red-Teaming Workshop (SEI)](https://insights.sei.cmu.edu/news/ai-red-teaming-workshop-will-explore-best-practices/)** – Workshops exploring advanced red teaming techniques.
 - **[AISec Workshop](https://aisec.cc/)** – Academic insights held alongside major ML conferences.
 - **[AI Security Symposium 2024](https://info.checkmarx.com/ai-security-symposium-2024)** – Sessions on risk mitigation and AI adoption strategies.
-- **[Black Hat USA 2024 AI Summit](https://www.blackhat.com/us-24/ai-summit.html)** – Practical sessions on LLM vulnerabilities integrated in the Black Hat conference.
+- **[Black Hat USA 2026 AI Summit](https://www.blackhat.com/us-26/ai-summit.html)** – Practical sessions on LLM vulnerabilities integrated in the Black Hat conference.
 - **[AI Cybersecurity Summit 2025 (SANS)](https://www.sans.org/cyber-security-training-events/ai-summit-2025/)** – Technical labs and sessions bridging AI and cybersecurity.
 - **[Generative AI Red Teaming Challenge 2024 (Clova)](https://clova.ai/en/tech-blog/en-generative-ai-red-teaming-challenge-2024)** – Competitive event to stress-test and enhance the resilience of LLMs.
 
@@ -126,7 +127,6 @@ A collection of repositories, tools, and research papers that document methods o
 - **[Jailbreaking in GenAI: Techniques and Ethical Implications](https://learnprompting.org/docs/prompt_hacking/jailbreaking)** – Guide discussing the practical methods and ethical considerations.
 - **[Prompt Injection vs. Jailbreaking: What’s the Difference?](https://learnprompting.org/blog/injection_jailbreaking)** – Comparative discussion on prompt injection and jailbreak strategies.
 - **[L1B3RT4S](https://github.com/elder-plinius/L1B3RT4S/tree/main)** – Repository featuring various jailbreak prompt sets and evaluation tools.
-- **[Jailbreak Tracker](https://jailbreak-tracker-goochbeaterhs.replit.app/)** – Live dashboard for monitoring known jailbreak prompts.
 - **[Awesome GPT Super Prompting](https://github.com/CyberAlbSecOP/Awesome_GPT_Super_Prompting)** – Curated list of red teaming and jailbreak resources for GPT-based models.
 - **[Jailbreaking LLMs: A Comprehensive Guide (With Examples)](https://www.promptfoo.dev/blog/how-to-jailbreak-llms/)** – Step-by-step guide showcasing real-world examples.
 - **[AI Jailbreak – IBM](https://www.ibm.com/think/insights/ai-jailbreak)** – Overview of jailbreak risks and mitigation strategies.

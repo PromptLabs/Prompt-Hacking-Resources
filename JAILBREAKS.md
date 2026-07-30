@@ -4,7 +4,6 @@
 • [Jailbreaking in GenAI: Techniques and Ethical Implications](https://learnprompting.org/docs/prompt_hacking/jailbreaking) – Explores jailbreak methods alongside their ethical and societal concerns  
 • [Prompt Injection vs. Jailbreaking: What's the Difference?](https://learnprompting.org/blog/injection_jailbreaking) – Comparison of two related AI exploitation methods: prompt injection vs jailbreaks  
 • [L1B3RT4S](https://github.com/elder-plinius/L1B3RT4S/tree/main) – A GitHub repository with jailbreak prompt sets and tools for evaluating LLM security  
-• [Jailbreak Tracker](https://jailbreak-tracker-goochbeaterhs.replit.app/) – Live dashboard tracking known jailbreak prompts across different LLMs  
 • [Awesome GPT Super Prompting](https://github.com/CyberAlbSecOP/Awesome_GPT_Super_Prompting) – Curated list of red teaming and jailbreak resources for GPT-style models  
 • [Jailbreaking LLMs: A Comprehensive Guide (With Examples)](https://www.promptfoo.dev/blog/how-to-jailbreak-llms/) – Practical guide offering step-by-step jailbreak prompt examples and techniques  
 • [AI Jailbreak – IBM](https://www.ibm.com/think/insights/ai-jailbreak) – Overview of jailbreak threats, implications, and potential mitigation strategies  
