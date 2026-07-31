@@ -30,6 +30,7 @@ Topics include AI red teaming, jailbreaking, prompt injection, prompt hacking, A
   - [Blogs](#blogs)
   - [Communities](#communities)
   - [Courses](#courses)
+  - [Labs & Playgrounds](#labs--playgrounds)
   - [Events](#events)
   - [Jailbreaks](#jailbreaks)
   - [YouTube](#youtube)
@@ -106,6 +107,12 @@ Stay informed with expert analyses, tutorials, and research articles on AI secur
 ### Paid Courses
 - **[AI Red-Teaming and Security Masterclass](https://learnprompting.org/courses/ai-security-masterclass)** – Comprehensive training on threat assessment, red teaming methodologies, and effective countermeasures.
 - **[Live AI Security Courses](https://learnprompting.org/courses/ai-security-masterclass-live)** – Instructor-led, live cohorts of the AI red teaming and security curriculum.
+
+## Labs & Playgrounds
+
+Interactive environments to practice prompt hacking hands-on against live LLMs:
+- **[PromptTrace](https://prompttrace.airedlab.com)** – Free hands-on labs and a progressive gauntlet covering prompt injection, jailbreaks, RAG poisoning, and tool/function-call abuse against real LLMs, plus the corresponding defenses.
+- **[Gandalf (Lakera)](https://gandalf.lakera.ai/)** – Level-based prompt injection challenge; coax a bot into revealing a secret password.
 
 # Events
 
