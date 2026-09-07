@@ -62,6 +62,7 @@ Stay informed with expert analyses, tutorials, and research articles on AI secur
 - **[Wiz AI Security Articles](https://www.wiz.io/blog/top-10-ai-security-articles)** – Curated executive insights on AI risk trends.
 - **[Lasso Security Blog](https://www.lasso.security/blog)** – In-depth research on prompt injection and adversarial LLM behavior.
 - **[Cisco AI Safety](https://blogs.cisco.com/news/you-cant-sacrifice-ai-safety-for-ai-speed)** – Strategic perspectives on embedding safety in AI innovation.
+- **[LLM and AI endpoint penetration testing against the OWASP LLM Top 10](https://dark-moon.org/blog/llm-ai-endpoint-penetration-testing-owasp-llm-top-10/)**: penetration testing of LLM and AI inference endpoints against the OWASP LLM Top 10.
 - **[Microsoft Security: AI & ML](https://www.microsoft.com/en-us/security/blog/topic/ai-and-machine-learning/)** – Deep dives into threat modeling and responsible AI practices.
 - **[Vectra AI Cybersecurity Blog](https://www.vectra.ai/blog)** – How AI can be used to defend against emerging AI-driven threats.
 - **[Reversec AI Security Articles](https://labs.reversec.com/categories/ai-security)** – Reversec research articles on LLM application security and prompt injection  
