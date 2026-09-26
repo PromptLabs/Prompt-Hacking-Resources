@@ -136,6 +136,7 @@ A collection of repositories, tools, and research papers that document methods o
 - **[SoP: Unlock the Power of Social Facilitation for Automatic Jailbreak Attack](https://arxiv.org/abs/2407.01902)** – Framework that leverages social engineering concepts for jailbreaks.
 - **[Deciphering the Chaos: Enhancing Jailbreak Attacks via Adversarial Prompt Translation](https://arxiv.org/abs/2410.11317)** – Technique to boost jailbreak effectiveness using adversarial translation.
 - **[AI Jailbreaks: What They Are and How They Can Be Mitigated](https://www.ibm.com/think/insights/ai-jailbreak)** – Additional insights into mitigating jailbreak vulnerabilities.
+- **[OrcaPromptVault](https://github.com/Continuum-AI-Corp/OrcaPromptVault)** – Archive of the system prompts and tool schemas shipping AI products send, recorded off the wire and dated, with every file marked as recorded or as model-reported. Useful as a reference when checking whether a prompt-leaking result is the real instruction text or a model's reconstruction.
 
 ## YouTube
 
