@@ -61,6 +61,7 @@ Stay informed with expert analyses, tutorials, and research articles on AI secur
 - **[PurpleSec AI & ML Security](https://purplesec.us/learn/ai-security/)** – Application of broad cybersecurity principles to AI/ML threat models.
 - **[Wiz AI Security Articles](https://www.wiz.io/blog/top-10-ai-security-articles)** – Curated executive insights on AI risk trends.
 - **[Lasso Security Blog](https://www.lasso.security/blog)** – In-depth research on prompt injection and adversarial LLM behavior.
+- **[DeepKeep AI Security Blog](https://www.deepkeep.ai/blog)** – Research and practical articles on AI red teaming, prompt injection, agent security, and multimodal AI threats.
 - **[Cisco AI Safety](https://blogs.cisco.com/news/you-cant-sacrifice-ai-safety-for-ai-speed)** – Strategic perspectives on embedding safety in AI innovation.
 - **[Microsoft Security: AI & ML](https://www.microsoft.com/en-us/security/blog/topic/ai-and-machine-learning/)** – Deep dives into threat modeling and responsible AI practices.
 - **[Vectra AI Cybersecurity Blog](https://www.vectra.ai/blog)** – How AI can be used to defend against emerging AI-driven threats.
