@@ -1,7 +1,7 @@
 # BLOGS
 ---
-• [LearnPrompting Prompt Hacking](https://learnprompting.org/docs/prompt_hacking/introduction) – Step-by-step educational guide to prompt injection and model exploitation  
-• [What is AI Red Teaming? (Learn Prompting)](https://learnprompting.org/blog/what-is-ai-red-teaming) – A primer on what AI red teaming is, why it matters, and how practitioners do it  
+• [LearnPrompting Prompt Hacking](https://learnprompting.org/docs/prompt_hacking/introduction?utm_source=github&utm_medium=readme&utm_campaign=prompt-hacking-resources&utm_content=blogs) – Step-by-step educational guide to prompt injection and model exploitation  
+• [What is AI Red Teaming? (Learn Prompting)](https://learnprompting.org/blog/what-is-ai-red-teaming?utm_source=github&utm_medium=readme&utm_campaign=prompt-hacking-resources&utm_content=blogs) – A primer on what AI red teaming is, why it matters, and how practitioners do it  
 • [EmbraceTheRed](https://embracethered.com/blog/) – Practical experiments and insights from active AI red teamers  
 • [Joseph Thacker](https://josephthacker.com/) – First-person red teaming explorations and LLM vulnerability research  
 • [Protect AI Blog](https://protectai.com/blog) – Enterprise-grade AI security insights and open-source tooling announcements  

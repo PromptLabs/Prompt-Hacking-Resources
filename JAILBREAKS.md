@@ -1,8 +1,8 @@
 # JAILBREAKS
 ---
 • [Ignore This Title and HackAPrompt (Learn Prompting / HackAPrompt)](https://arxiv.org/abs/2311.16119) – EMNLP 2023 best-paper research exposing systemic LLM vulnerabilities via a global-scale prompt hacking competition  
-• [Jailbreaking in GenAI: Techniques and Ethical Implications](https://learnprompting.org/docs/prompt_hacking/jailbreaking) – Explores jailbreak methods alongside their ethical and societal concerns  
-• [Prompt Injection vs. Jailbreaking: What's the Difference?](https://learnprompting.org/blog/injection_jailbreaking) – Comparison of two related AI exploitation methods: prompt injection vs jailbreaks  
+• [Jailbreaking in GenAI: Techniques and Ethical Implications](https://learnprompting.org/docs/prompt_hacking/jailbreaking?utm_source=github&utm_medium=readme&utm_campaign=prompt-hacking-resources&utm_content=jailbreaks) – Explores jailbreak methods alongside their ethical and societal concerns  
+• [Prompt Injection vs. Jailbreaking: What's the Difference?](https://learnprompting.org/blog/injection_jailbreaking?utm_source=github&utm_medium=readme&utm_campaign=prompt-hacking-resources&utm_content=jailbreaks) – Comparison of two related AI exploitation methods: prompt injection vs jailbreaks  
 • [L1B3RT4S](https://github.com/elder-plinius/L1B3RT4S/tree/main) – A GitHub repository with jailbreak prompt sets and tools for evaluating LLM security  
 • [Awesome GPT Super Prompting](https://github.com/CyberAlbSecOP/Awesome_GPT_Super_Prompting) – Curated list of red teaming and jailbreak resources for GPT-style models  
 • [Jailbreaking LLMs: A Comprehensive Guide (With Examples)](https://www.promptfoo.dev/blog/how-to-jailbreak-llms/) – Practical guide offering step-by-step jailbreak prompt examples and techniques  

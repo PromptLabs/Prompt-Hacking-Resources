@@ -1,12 +1,12 @@
 # COURSES
 ---
 **Free Courses**  
-• [Introduction to Prompt Engineering](https://learnprompting.org/courses/introduction_to_prompt_engineering) – Write better prompts and learn how LLMs interpret inputs  
-• [Introduction to Prompt Hacking](https://learnprompting.org/courses/intro-to-prompt-hacking) – Beginner-friendly course covering the fundamentals of prompt injection and AI red teaming  
-• [Advanced Prompt Hacking](https://learnprompting.org/courses/advanced-prompt-hacking) – Deeper dive into adversarial prompting, attack types, and defense strategies  
-• [Advanced Prompt Engineering](https://learnprompting.org/courses/advanced-prompt-engineering) – Advanced techniques for building reliable, production-grade prompts  
-• [AI Safety](https://learnprompting.org/courses/ai-safety) – Introduction to AI safety concepts, risks, and alignment fundamentals  
-• [Prompt Engineering on LearnAI](https://learnprompting.org/) – Community-driven learning resources for prompt engineering and red teaming  
+• [Introduction to Prompt Engineering](https://learnprompting.org/courses/introduction_to_prompt_engineering?utm_source=github&utm_medium=readme&utm_campaign=prompt-hacking-resources&utm_content=courses) – Write better prompts and learn how LLMs interpret inputs  
+• [Introduction to Prompt Hacking](https://learnprompting.org/courses/intro-to-prompt-hacking?utm_source=github&utm_medium=readme&utm_campaign=prompt-hacking-resources&utm_content=courses) – Beginner-friendly course covering the fundamentals of prompt injection and AI red teaming  
+• [Advanced Prompt Hacking](https://learnprompting.org/courses/advanced-prompt-hacking?utm_source=github&utm_medium=readme&utm_campaign=prompt-hacking-resources&utm_content=courses) – Deeper dive into adversarial prompting, attack types, and defense strategies  
+• [Advanced Prompt Engineering](https://learnprompting.org/courses/advanced-prompt-engineering?utm_source=github&utm_medium=readme&utm_campaign=prompt-hacking-resources&utm_content=courses) – Advanced techniques for building reliable, production-grade prompts  
+• [AI Safety](https://learnprompting.org/courses/ai-safety?utm_source=github&utm_medium=readme&utm_campaign=prompt-hacking-resources&utm_content=courses) – Introduction to AI safety concepts, risks, and alignment fundamentals  
+• [Learn Prompting Docs](https://learnprompting.org/docs/introduction?utm_source=github&utm_medium=readme&utm_campaign=prompt-hacking-resources&utm_content=courses) – Free, open guide to prompt engineering, from basics to advanced techniques  
 • [Intro to LLMs and Prompting (Google Cloud)](https://www.cloudskillsboost.google/paths/118) – Google’s path on LLM basics and prompting within their cloud platform  
 • [Generative AI Prompting Basics (Google)](https://cloud.google.com/training/courses/generative-ai-prompting) – Foundational course for understanding GenAI prompting with Google tools  
 • [Prompt Engineering on Fast.ai](https://course.fast.ai/) – Included in Fast.ai’s broader course, focusing on real-world prompting and LLM use cases  
@@ -16,5 +16,4 @@
 ---
 
 **Paid Courses**  
-• [AI Red-Teaming and Security Masterclass](https://learnprompting.org/courses/ai-security-masterclass) – Comprehensive training on AI red teaming, threats, testing methods, and tools  
-• [Live AI Security Courses](https://learnprompting.org/courses/ai-security-masterclass-live) – Instructor-led, live cohorts of the AI red teaming and security curriculum
+• [AI Red Teaming Masterclass + AIRTP+ Certification](https://learnprompting.org/courses/ai-security-masterclass?utm_source=github&utm_medium=readme&utm_campaign=prompt-hacking-resources&utm_content=courses) – On-demand course from the creators of HackAPrompt: recorded lectures, study guides, 3 hands-on HackAPrompt projects, and the AIRTP+ practical exam
