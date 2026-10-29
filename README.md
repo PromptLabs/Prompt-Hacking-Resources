@@ -1,6 +1,6 @@
       
 <h1 align="center">
-    <strong>Awesome prompt hacking – an awesome list of curated resources on prompt hacking and AI safety.</strong>
+    <strong>Awesome Prompt Hacking: curated resources on AI red teaming, jailbreaking and prompt injection</strong>
 </h1>
 
 <p align="center">
@@ -9,23 +9,40 @@ Topics include AI red teaming, jailbreaking, prompt injection, prompt hacking, A
 
 <p align="center">
       
-  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Made With Love](https://img.shields.io/badge/Made%20With-Love-orange.svg)](https://github.com/chetanraj/awesome-github-badges) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Awesome%20Prompting%20Resources%20-%20a%20collection%20of%20awesome%20lists%20related%20to%20prompt%20engineering%20by%20@learnprompting&url=https://github.com/PromptLabs/Prompt-Hacking-Resources)
+  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Made With Love](https://img.shields.io/badge/Made%20With-Love-orange.svg)](https://github.com/chetanraj/awesome-github-badges) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Awesome%20Prompt%20Hacking%20-%20curated%20resources%20on%20AI%20red%20teaming%2C%20jailbreaking%20and%20prompt%20injection%20by%20@learnprompting&url=https://github.com/PromptLabs/Prompt-Hacking-Resources)
 </p>
 
-> This resource is provided by [Learn Prompting](https://github.com/trigaten/Learn_Prompting), your go-to resource for mastering Generative AI.
+> Maintained by [Learn Prompting](https://learnprompting.org/?utm_source=github&utm_medium=readme&utm_campaign=prompt-hacking-resources&utm_content=header), the team behind [HackAPrompt](https://www.hackaprompt.com/). Star the repo to keep it handy, and open a pull request to suggest a resource.
 
 <img src="astronaut-learn-prompting.png" alt="astronaut-learn-prompting">
 
 <p align="center">
-<a href="https://discord.com/invite/learn-prompting-1046228027434086460">Discord</a> • <a href="https://x.com/learnprompting">Twitter (X)</a> • <a href="https://www.linkedin.com/company/learn-prompting/">LinkedIn</a> • <a href="https://learnprompting.beehiiv.com/subscribe">Newsletter</a> • <a href="https://learnprompting.org/courses/intro-to-prompt-hacking">Free Intro Prompt Hacking Course</a> • <a href="https://learnprompting.org/courses/advanced-prompt-hacking">Free Advanced Prompt Hacking Course</a>
+<a href="https://discord.com/invite/learn-prompting-1046228027434086460">Discord</a> • <a href="https://x.com/learnprompting">Twitter (X)</a> • <a href="https://www.linkedin.com/company/learn-prompting/">LinkedIn</a> • <a href="https://learnprompting.beehiiv.com/subscribe?utm_source=github&utm_medium=readme&utm_campaign=prompt-hacking-resources&utm_content=header">Newsletter</a> • <a href="https://learnprompting.org/courses/intro-to-prompt-hacking?utm_source=github&utm_medium=readme&utm_campaign=prompt-hacking-resources&utm_content=header">Free Intro Prompt Hacking Course</a> • <a href="https://learnprompting.org/courses/advanced-prompt-hacking?utm_source=github&utm_medium=readme&utm_campaign=prompt-hacking-resources&utm_content=header">Free Advanced Prompt Hacking Course</a>
 
 </p>
+
+---
+
+### Want to learn AI red teaming hands-on and get certified?
+
+The **[AI Red Teaming Masterclass](https://learnprompting.org/courses/ai-security-masterclass?utm_source=github&utm_medium=readme&utm_campaign=prompt-hacking-resources&utm_content=masterclass-box)** is our on-demand course, taught by the creators of HackAPrompt.
+
+- **About 25 hours of learning:** 14 recorded videos (11+ hours), written study guides, and 3 hands-on projects in the HackAPrompt playground.
+- **AIRTP+ certification:** includes the 24-hour practical exam and one free retake. Pass it to earn the certification.
+- **Built for working professionals:** self-paced, lifetime access, and a 14-day money-back guarantee. Companies can pay by invoice or purchase order.
+
+<p>
+<a href="https://learnprompting.org/courses/ai-security-masterclass?utm_source=github&utm_medium=readme&utm_campaign=prompt-hacking-resources&utm_content=masterclass-box"><img src="https://img.shields.io/badge/See%20the%20AI%20Red%20Teaming%20Masterclass-%E2%86%92-orange?style=for-the-badge" alt="See the AI Red Teaming Masterclass"></a>
+</p>
+
+Training a team? Email [support@learnprompting.org](mailto:support@learnprompting.org) for team and company billing options.
 
 ---
 
 ## Table of Contents
 
 - [Introduction](#introduction)
+- [Start Here: A Learning Path](#start-here-a-learning-path)
 - Resource Categories
   - [Blogs](#blogs)
   - [Communities](#communities)
@@ -46,12 +63,25 @@ This repository aims to provide a good overview of materials and tutorials that 
 
 ---
 
+## Start Here: A Learning Path
+
+New to prompt hacking? Work through these in order.
+
+1. **Learn the basics (free):** [Introduction to Prompt Hacking](https://learnprompting.org/courses/intro-to-prompt-hacking?utm_source=github&utm_medium=readme&utm_campaign=prompt-hacking-resources&utm_content=learning-path) covers prompt injection fundamentals. Read [What is AI Red Teaming?](https://learnprompting.org/blog/what-is-ai-red-teaming?utm_source=github&utm_medium=readme&utm_campaign=prompt-hacking-resources&utm_content=learning-path) for the big picture.
+2. **Go deeper (free):** [Advanced Prompt Hacking](https://learnprompting.org/courses/advanced-prompt-hacking?utm_source=github&utm_medium=readme&utm_campaign=prompt-hacking-resources&utm_content=learning-path) covers adversarial prompting and defenses, and the [Prompt Hacking guide](https://learnprompting.org/docs/prompt_hacking/introduction?utm_source=github&utm_medium=readme&utm_campaign=prompt-hacking-resources&utm_content=learning-path) is a reference you can come back to.
+3. **See real attacks:** look at [HackAPrompt](https://www.hackaprompt.com/), our AI red teaming competition, and read the [HackAPrompt paper](https://arxiv.org/abs/2311.16119) on what worked.
+4. **Get certified:** the [AI Red Teaming Masterclass](https://learnprompting.org/courses/ai-security-masterclass?utm_source=github&utm_medium=readme&utm_campaign=prompt-hacking-resources&utm_content=learning-path) adds structured lessons, hands-on projects, and the AIRTP+ practical exam.
+
+Then browse the full list below for blogs, communities, events, research and videos.
+
+---
+
 ## Blogs
 
 Stay informed with expert analyses, tutorials, and research articles on AI security.
 
-- **[LearnPrompting Prompt Hacking](https://learnprompting.org/docs/prompt_hacking/introduction)** – A step-by-step guide on prompt injection and model exploitation.
-- **[What is AI Red Teaming? (Learn Prompting)](https://learnprompting.org/blog/what-is-ai-red-teaming)** – A primer on what AI red teaming is, why it matters, and how it's done.
+- **[LearnPrompting Prompt Hacking](https://learnprompting.org/docs/prompt_hacking/introduction?utm_source=github&utm_medium=readme&utm_campaign=prompt-hacking-resources&utm_content=blogs)** – A step-by-step guide on prompt injection and model exploitation.
+- **[What is AI Red Teaming? (Learn Prompting)](https://learnprompting.org/blog/what-is-ai-red-teaming?utm_source=github&utm_medium=readme&utm_campaign=prompt-hacking-resources&utm_content=blogs)** – A primer on what AI red teaming is, why it matters, and how it's done.
 - **[EmbraceTheRed](https://embracethered.com/blog/)** – Practical experiments and insights from active AI red teamers.
 - **[Joseph Thacker](https://josephthacker.com/)** – First-person narratives on red teaming and LLM vulnerability research.
 - **[Protect AI Blog](https://protectai.com/blog)** – Enterprise insights on AI security along with open-source tooling.
@@ -91,21 +121,20 @@ Stay informed with expert analyses, tutorials, and research articles on AI secur
 ## Courses
 
 ### Free Courses
-- **[Introduction to Prompt Engineering](https://learnprompting.org/courses/introduction_to_prompt_engineering)** – Techniques for writing optimized prompts.
-- **[Introduction to Prompt Hacking](https://learnprompting.org/courses/intro-to-prompt-hacking)** – Beginner-focused course covering prompt injection fundamentals.
-- **[Advanced Prompt Hacking](https://learnprompting.org/courses/advanced-prompt-hacking)** – Explores adversarial prompting and defense strategies in detail.
-- **[Advanced Prompt Engineering](https://learnprompting.org/courses/advanced-prompt-engineering)** – Advanced techniques for building reliable, production-grade prompts.
-- **[AI Safety](https://learnprompting.org/courses/ai-safety)** – Introduction to AI safety concepts, risks, and alignment fundamentals.
+- **[Introduction to Prompt Engineering](https://learnprompting.org/courses/introduction_to_prompt_engineering?utm_source=github&utm_medium=readme&utm_campaign=prompt-hacking-resources&utm_content=courses)** – Techniques for writing optimized prompts.
+- **[Introduction to Prompt Hacking](https://learnprompting.org/courses/intro-to-prompt-hacking?utm_source=github&utm_medium=readme&utm_campaign=prompt-hacking-resources&utm_content=courses)** – Beginner-focused course covering prompt injection fundamentals.
+- **[Advanced Prompt Hacking](https://learnprompting.org/courses/advanced-prompt-hacking?utm_source=github&utm_medium=readme&utm_campaign=prompt-hacking-resources&utm_content=courses)** – Explores adversarial prompting and defense strategies in detail.
+- **[Advanced Prompt Engineering](https://learnprompting.org/courses/advanced-prompt-engineering?utm_source=github&utm_medium=readme&utm_campaign=prompt-hacking-resources&utm_content=courses)** – Advanced techniques for building reliable, production-grade prompts.
+- **[AI Safety](https://learnprompting.org/courses/ai-safety?utm_source=github&utm_medium=readme&utm_campaign=prompt-hacking-resources&utm_content=courses)** – Introduction to AI safety concepts, risks, and alignment fundamentals.
 - **[Intro to LLMs and Prompting (Google Cloud)](https://www.cloudskillsboost.google/paths/118)** – Overview of LLM concepts and practical prompting within a cloud framework.
-- **[Prompt Engineering on LearnAI](https://learnprompting.org/)** – Community-driven prompt engineering resources.
+- **[Learn Prompting Docs](https://learnprompting.org/docs/introduction?utm_source=github&utm_medium=readme&utm_campaign=prompt-hacking-resources&utm_content=courses)** – Free, open guide to prompt engineering, from basics to advanced techniques.
 - **[Generative AI Prompting Basics (Google)](https://cloud.google.com/training/courses/generative-ai-prompting)** – Foundational course for generative AI prompting.
 - **[Prompt Engineering on Fast.ai](https://course.fast.ai/)** – Integrated with broader practical machine learning applications.
 - **[Intro to AI Safety and Prompt Testing](https://www.eleuther.ai/)** – Materials focused on the safety aspects of prompt exploitation.
 - **[Spikee Tutorial Series](https://www.youtube.com/playlist?list=PLNg09XqZv0dEeneAyDR4nxPda8WJBOKAe)** – Series of tutorials on how to use spikee, an open-source tool, to test LLMs and LLM application resiliance to different jailbreaking and prompt injection attacks 
 
 ### Paid Courses
-- **[AI Red-Teaming and Security Masterclass](https://learnprompting.org/courses/ai-security-masterclass)** – Comprehensive training on threat assessment, red teaming methodologies, and effective countermeasures.
-- **[Live AI Security Courses](https://learnprompting.org/courses/ai-security-masterclass-live)** – Instructor-led, live cohorts of the AI red teaming and security curriculum.
+- **[AI Red Teaming Masterclass + AIRTP+ Certification](https://learnprompting.org/courses/ai-security-masterclass?utm_source=github&utm_medium=readme&utm_campaign=prompt-hacking-resources&utm_content=courses)** – On-demand course from the creators of HackAPrompt: recorded lectures, study guides, 3 hands-on HackAPrompt projects, and the AIRTP+ practical exam.
 
 # Events
 
@@ -124,8 +153,8 @@ Keep updated with competitions, workshops, and summits that drive practical lear
 
 A collection of repositories, tools, and research papers that document methods of bypassing LLM safeguards:
 - **[Ignore This Title and HackAPrompt (Learn Prompting / HackAPrompt)](https://arxiv.org/abs/2311.16119)** – EMNLP 2023 best-paper research exposing systemic LLM vulnerabilities through a global-scale prompt hacking competition.
-- **[Jailbreaking in GenAI: Techniques and Ethical Implications](https://learnprompting.org/docs/prompt_hacking/jailbreaking)** – Guide discussing the practical methods and ethical considerations.
-- **[Prompt Injection vs. Jailbreaking: What’s the Difference?](https://learnprompting.org/blog/injection_jailbreaking)** – Comparative discussion on prompt injection and jailbreak strategies.
+- **[Jailbreaking in GenAI: Techniques and Ethical Implications](https://learnprompting.org/docs/prompt_hacking/jailbreaking?utm_source=github&utm_medium=readme&utm_campaign=prompt-hacking-resources&utm_content=jailbreaks)** – Guide discussing the practical methods and ethical considerations.
+- **[Prompt Injection vs. Jailbreaking: What’s the Difference?](https://learnprompting.org/blog/injection_jailbreaking?utm_source=github&utm_medium=readme&utm_campaign=prompt-hacking-resources&utm_content=jailbreaks)** – Comparative discussion on prompt injection and jailbreak strategies.
 - **[L1B3RT4S](https://github.com/elder-plinius/L1B3RT4S/tree/main)** – Repository featuring various jailbreak prompt sets and evaluation tools.
 - **[Awesome GPT Super Prompting](https://github.com/CyberAlbSecOP/Awesome_GPT_Super_Prompting)** – Curated list of red teaming and jailbreak resources for GPT-based models.
 - **[Jailbreaking LLMs: A Comprehensive Guide (With Examples)](https://www.promptfoo.dev/blog/how-to-jailbreak-llms/)** – Step-by-step guide showcasing real-world examples.
@@ -135,7 +164,6 @@ A collection of repositories, tools, and research papers that document methods o
 - **[DiffusionAttacker: Diffusion-Driven Prompt Manipulation for LLM Jailbreak](https://arxiv.org/abs/2412.17522)** – Novel approach applying diffusion models in jailbreak generation.
 - **[SoP: Unlock the Power of Social Facilitation for Automatic Jailbreak Attack](https://arxiv.org/abs/2407.01902)** – Framework that leverages social engineering concepts for jailbreaks.
 - **[Deciphering the Chaos: Enhancing Jailbreak Attacks via Adversarial Prompt Translation](https://arxiv.org/abs/2410.11317)** – Technique to boost jailbreak effectiveness using adversarial translation.
-- **[AI Jailbreaks: What They Are and How They Can Be Mitigated](https://www.ibm.com/think/insights/ai-jailbreak)** – Additional insights into mitigating jailbreak vulnerabilities.
 
 ## YouTube
 
@@ -167,3 +195,5 @@ If you have suggestions, improvements, or additional resources to include, pleas
 ---
 
 This repository aims to deliver critical, reliable resources for advancing prompt hacking research. We encourage rigorous testing, honest discussions, and the sharing of proven methodologies to foster safe and responsible exploration in this field.
+
+**Keep learning:** get new prompt hacking guides in the [Learn Prompting newsletter](https://learnprompting.beehiiv.com/subscribe?utm_source=github&utm_medium=readme&utm_campaign=prompt-hacking-resources&utm_content=footer), or get certified with the [AI Red Teaming Masterclass](https://learnprompting.org/courses/ai-security-masterclass?utm_source=github&utm_medium=readme&utm_campaign=prompt-hacking-resources&utm_content=footer).

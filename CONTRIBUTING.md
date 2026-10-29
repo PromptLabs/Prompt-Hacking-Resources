@@ -38,7 +38,7 @@ To keep things consistent across the project, here are a few style points:
 
 ## Curation Criteria
 
-This is a curated list maintained by [Learn Prompting](https://learnprompting.org), not an exhaustive directory. Before submitting a resource, check that it:
+This is a curated list maintained by [Learn Prompting](https://learnprompting.org?utm_source=github&utm_medium=readme&utm_campaign=prompt-hacking-resources&utm_content=contributing), not an exhaustive directory. Before submitting a resource, check that it:
 
 - **Is actively maintained.** Dead links, abandoned projects, and pages that no longer resolve are removed on sight.
 - **Adds something new.** A resource should cover ground the existing entries don't already cover.
