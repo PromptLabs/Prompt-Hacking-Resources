@@ -65,6 +65,7 @@ Stay informed with expert analyses, tutorials, and research articles on AI secur
 - **[Microsoft Security: AI & ML](https://www.microsoft.com/en-us/security/blog/topic/ai-and-machine-learning/)** – Deep dives into threat modeling and responsible AI practices.
 - **[Vectra AI Cybersecurity Blog](https://www.vectra.ai/blog)** – How AI can be used to defend against emerging AI-driven threats.
 - **[Reversec AI Security Articles](https://labs.reversec.com/categories/ai-security)** – Reversec research articles on LLM application security and prompt injection  
+- **[Prompt injection w dokumentach](https://blog.aeneia.pl/prompt-injection-w-dokumentach-firmowych)** - Polish-language guide to checking whether instructions in untrusted documents can cause an AI assistant to attempt unauthorized tool actions.
 
 
 ## Communities
