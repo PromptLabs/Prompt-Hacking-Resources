@@ -15,4 +15,5 @@
 • [Microsoft Security: AI & ML](https://www.microsoft.com/en-us/security/blog/topic/ai-and-machine-learning/) – Deep dives into red teaming, threat modeling, and Responsible AI practices  
 • [Vectra AI Cybersecurity Blog](https://www.vectra.ai/blog) – Using AI to defend against AI-driven threats in enterprise security
 • [Reversec AI Security Articles](https://labs.reversec.com/categories/ai-security) – Reversec research articles on LLM application security and prompt injection  
+• [promptinjections.de](https://promptinjections.de/) – German-language reference on prompt injection with glossary, CVE list and a monthly Threat Index, every entry linked to its primary source (open data, CC BY 4.0; OWASP Top 10 file CC BY-SA 4.0)  
 
